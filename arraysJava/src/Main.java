@@ -13,7 +13,7 @@ public class Main {
             case 5 -> task5.run();
             case 6 -> task6.run();
             case 7 -> task7.run();
-//            case 8 -> task8.run();
+            case 8 -> task8.run();
 //            case 9 -> task9.run();
 //            case 10 -> task10.run();
 //            case 11 -> task11.run();
